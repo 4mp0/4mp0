@@ -1,10 +1,10 @@
 
-<div align="center" style="margin-bottom: 40px;">
+<div align="center">
   <img src="https://media1.tenor.com/m/Rfhh2dQq1yUAAAAC/anime-wave.gif" width="600" height="250">
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on: A pretty serious stuff.<br>🌱 I’m currently learning: Life.<br>💬 Ask me about: the loml.<br>⚡ Fun fact: Even systems have a heart.
+🔭 I’m currently working on: Pretty serious stuff.<br>🌱 I’m currently learning: Life.<br>💬 Ask me about: the loml.<br>⚡ Fun fact: Even systems have a heart.
 
 
 # 💻 Tech Stack:
