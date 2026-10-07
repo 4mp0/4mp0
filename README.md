@@ -15,6 +15,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=4mp0&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=4mp0&icon=9&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=4mp0)
